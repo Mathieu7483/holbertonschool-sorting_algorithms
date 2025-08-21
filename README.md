@@ -1,4 +1,4 @@
-<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/holberton%20modif.png">
 
 # 📚 holbertonschool-low_level_programming : Immersion dans le C de Bas Niveau
 
